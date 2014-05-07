@@ -1,0 +1,37 @@
+
+
+import java.util.Scanner;
+public class ROBERTO {
+
+	public static void main(String[] args) {
+	 Scanner s=new Scanner(System.in);
+	 System.out.print("Ingrese un numero");
+	 int x= s.nextInt();
+	 switch(x)
+	 {
+	 case 1:
+		 System.out.print("Es un uno");
+		 break;
+	 case 2:
+		 System.out.print("Es un dos");
+			 break;
+	 case 3: 
+		 System.out.print("Es un tres");
+		 break;
+		 default:
+			 System.out.print("Es otro numero");
+			 break;
+	 }
+
+		
+		
+		
+	
+		
+		
+		
+	}	
+		
+	
+	
+

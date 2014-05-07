@@ -1,0 +1,29 @@
+
+
+import java.util.Scanner;
+public class ROBERTO {
+
+	public static void main(String[] args) {
+	 Scanner lea=new Scanner(System.in);
+	 System.out.println("Ficha personal");
+	 System.out.println("Ingrese su nombre:");
+	 String nombre= lea.next();
+	 System.out.print("Ingrese su edad");
+	 int edad= lea.nextInt();
+	 System.out.println("Ingrese su sexo:");
+	 char sexo = lea.next().charAt(0);
+	 System.out.println("Esta soltero(true/false)?");
+	 boolean soltero= lea.nextBoolean();
+	 System.out.println(nombre);
+	 System.out.println(edad);
+	 System.out.print(sexo);
+	 System.out.print(soltero);
+	 
+	
+	}
+	
+}
+		
+	
+	
+

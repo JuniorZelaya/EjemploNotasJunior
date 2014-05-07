@@ -1,0 +1,23 @@
+
+
+import java.util.Scanner;
+public class ROBERTO {
+
+	public static void main(String[] args) {
+	 String poke1,poke2;
+	 int vida1,vida2;
+	 poke1="momo";
+	 poke2="lolo";
+	 vida1=100;
+	 vida2=120;
+	 System.out.print("poke1:" +poke1+" "+"vida:"+vida1);
+		 System.out.print("poke2:" +poke2+" "+"vida:"+vida2);
+	 
+	
+	}
+	
+}
+		
+	
+	
+

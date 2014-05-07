@@ -1,0 +1,17 @@
+
+
+public class ROBERTO {
+
+	public static void main(String[] args) {
+		{
+			float a = 'A' ;
+			System.out.print(a);
+		}
+	
+	}
+	
+}
+		
+	
+	
+
